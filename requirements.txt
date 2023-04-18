@@ -14,5 +14,5 @@ rnnmorph >= 0.2.3
 sentence_splitter >= 1.2
 allennlp 
 overrides == 3.0.0
-git+https://github.com/IlyaGusev/rulm
-git+https://github.com/IlyaGusev/russ
+git+https://github.com/IlyaGusev/rulm.git
+git+https://github.com/IlyaGusev/russ.git
